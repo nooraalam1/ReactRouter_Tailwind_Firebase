@@ -8,7 +8,7 @@ import './index.css'
 const router = createBrowserRouter([
   {
     path: "/",
-    element: <div>Hello world!</div>,
+    element: <div className='text-3xl font-semibold text-center mt-8'>Hello world! <br /> <span className='text-xl text-purple-600'>Made by Noor A Alam</span></div>,
   },
 ]);
 
