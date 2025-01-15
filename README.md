@@ -11,7 +11,7 @@ Firebase: Seamless integration for authentication, database, and more.
 To install this package, run the following command:
 
 
-npm install react-tailwind-firebase
+ $ npm install react-tailwind-firebase
 
 # Contribution
 Contributions are welcome! If you find any issues or have feature requests, feel free to create an issue or submit a pull request on GitHub.
